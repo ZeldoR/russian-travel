@@ -1,0 +1,9 @@
+.header__lang-set {
+  margin-top: 46px;
+  font-size: 0;
+}
+@media screen and (max-width: 320px) {
+  .header__lang-set {
+    margin-top: 30px;
+  }
+}

@@ -1,0 +1,18 @@
+.place__paragraphs {
+  max-width: calc(100vw - 796px);
+}
+@media screen and (max-width: 1024px) {
+  .place__paragraphs {
+    max-width: calc(100vw - 568px);
+  }
+}
+@media screen and (max-width: 768px) {
+  .place__paragraphs {
+    max-width: calc(100vw - 416px);
+  }
+}
+@media screen and (max-width: 700px) {
+  .place__paragraphs {
+    max-width: 100%;
+  }
+}
