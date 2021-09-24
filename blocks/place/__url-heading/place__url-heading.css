@@ -13,3 +13,8 @@
     margin: 0 0 12px;
   }
 }
+@media screen and (max-width: 380px) {
+  .place__url-heading {
+    margin: 0 16px 12px;
+  }
+}

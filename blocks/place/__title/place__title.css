@@ -16,3 +16,8 @@
     line-height: 1.09;
   }
 }
+@media screen and (max-width: 380px) {
+  .place__title {
+    margin: 0 16px;
+  }
+}
