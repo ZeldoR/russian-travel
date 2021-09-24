@@ -1,8 +1,11 @@
 .header__lang-set {
-  margin-top: 46px;
-  font-size: 0;
+  margin: 46px 0 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  gap: 18px;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .header__lang-set {
     margin-top: 30px;
   }
