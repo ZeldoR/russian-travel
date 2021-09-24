@@ -16,7 +16,7 @@
 @media screen and (max-width: 1023px) {
   .place {
     gap: 48px 28px;
-    padding-bottom: 72px;
+    padding-bottom: 73px;
   }
   .place:last-of-type {
     padding-bottom: 90px;
